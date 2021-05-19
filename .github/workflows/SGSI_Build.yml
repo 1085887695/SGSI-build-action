@@ -11,7 +11,7 @@ env:
   ZIP_NAME: 'PDEM30_11_OTA_10901510_all_RjUGGpYGiU1t_cdf23.ozip'
   OS_TYPE: 'ColorOS11'
   BUILD_TYPE: 'a-only'
-  REPACK_NAME: '肥龙爱OPPO.zip'
+  REPACK_NAME: 'OPPO.zip'
   VERSION: '12'
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'true'
